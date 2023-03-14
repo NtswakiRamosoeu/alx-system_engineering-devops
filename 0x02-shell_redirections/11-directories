@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -dc
+find type -d count type -d
